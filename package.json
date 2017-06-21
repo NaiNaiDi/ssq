@@ -1,5 +1,5 @@
 {
-  "name": "dztchu",
+  "name": "ssq",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -13,8 +13,5 @@
     "jade": "~1.11.0",
     "morgan": "~1.8.1",
     "serve-favicon": "~2.4.2"
-  },
-  "devDependencies": {
-    "gulp-bom": "^1.0.0"
   }
 }

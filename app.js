@@ -9,5 +9,5 @@ app.get('/',function(req,res){
     var fileName = "public/www.dztchu.com/index.htm";
     res.sendfile(fileName);
 })
-app.listen(810, function(){
+app.listen(80, function(){
 })
